@@ -1,0 +1,10 @@
+{
+  "eventId": "a1b2c3",
+  "type": "login",
+  "timestamp": "2025-05-18T14:00:00Z",
+  "payload": {
+    "userId": "u123",
+    "ip": "203.0.113.45",
+    "device": "Chrome on macOS"
+  }
+}

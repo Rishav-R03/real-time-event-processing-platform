@@ -1,0 +1,11 @@
+{
+  "type": "form_submit",
+  "payload": {
+    "userId": "u789",
+    "formId": "feedback-form",
+    "fields": {
+      "rating": "5",
+      "comment": "Great app!"
+    }
+  }
+}

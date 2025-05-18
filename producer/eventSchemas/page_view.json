@@ -1,0 +1,9 @@
+{
+  "type": "page_view",
+  "payload": {
+    "userId": "u456",
+    "page": "/dashboard",
+    "referrer": "/login",
+    "device": "Firefox on Linux"
+  }
+}

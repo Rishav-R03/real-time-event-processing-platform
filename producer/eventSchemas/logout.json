@@ -1,0 +1,8 @@
+{
+  "type": "logout",
+  "payload": {
+    "userId": "u123",
+    "duration": 3600,
+    "ip": "203.0.113.45"
+  }
+}

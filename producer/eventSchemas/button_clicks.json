@@ -1,0 +1,8 @@
+{
+  "type": "button_click",
+  "payload": {
+    "userId": "u456",
+    "buttonId": "download-report",
+    "page": "/dashboard"
+  }
+}
